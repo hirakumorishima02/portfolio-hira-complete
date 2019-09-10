@@ -3,4 +3,6 @@
 - mongoDB
 - Auth0
 - Heroku
+- googlefonts
+- Reactstrap
 - 
